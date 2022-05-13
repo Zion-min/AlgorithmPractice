@@ -14,7 +14,7 @@ look at my algorithm,,,
 ## Week 2. Dynamic Programming
 - [Maximum Subarrays](https://github.com/Zion-min/AlgorithmPractice/blob/main/LeetCode/maxSubArray.py)
 - [Climbing Stairs](https://github.com/Zion-min/AlgorithmPractice/blob/main/LeetCode/climbStairs.py)
-- [타일 문제] 2XN타일링, 2XN타일링2, 3XN타일링 
-- [+,-넣기 문제]
+- [백준 타일 문제] 2XN타일링, 2XN타일링2, 3XN타일링 
+- [+,-넣기 문제](주말에 정리해서 풀기)
 - [Count Bits](https://github.com/Zion-min/AlgorithmPractice/commit/82ecfeb99fba4dbaf0802115b24bc08b1960a805)
 - [Count Square Submatrices with All Ones](https://github.com/Zion-min/AlgorithmPractice/blob/main/LeetCode/countSquares.py)
