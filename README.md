@@ -17,3 +17,4 @@ look at my algorithm,,,
 - [타일 문제] 2XN타일링, 2XN타일링2, 3XN타일링 
 - [+,-넣기 문제]
 - [Count Bits](https://github.com/Zion-min/AlgorithmPractice/commit/82ecfeb99fba4dbaf0802115b24bc08b1960a805)
+- [Count Square Submatrices with All Ones](https://github.com/Zion-min/AlgorithmPractice/blob/main/LeetCode/countSquares.py)
